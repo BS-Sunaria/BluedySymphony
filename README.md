@@ -5,6 +5,8 @@
 Ce pack de texture a été conçu pour être utilisé sur le serveur [Sunaria](https://sunaria.fr/) mais est aussi compatible
 bien qu'incomplet pour être utilisé sur [BloodSymphony](https://bloodsymphony.com/).
 
+Ce pack de texture utilise comme base les textures du [Dynamic Duo v2](https://youtu.be/A_EwSeRfyLg) et de couleurs différentes.
+
 ## Installation
 
 Ce pack de texture a besoin du mod nommé [Optifine](https://www.optifine.net/downloads) pour fonctionner ou d'un
