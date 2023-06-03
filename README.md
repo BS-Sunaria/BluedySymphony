@@ -22,4 +22,4 @@ Echap -> Options/Options-Graphiques/Qualité/Objets personnalisés : Oui.
 ## Post-Scriptum
 
 Certaines des textures n'ont pas été réalisées par [moi-même](https://github.com/BluedyRimuru) et si vous êtes l'auteur de l'une d'entre elle, vous pouvez 
-me contacter à mon [adresse mail](bluedy.aishela208@gmail.com) pour en discuter (mention, suppression, etc.).
+me contacter à mon [adresse mail](mailto:bluedy.aishela208@gmail.com) pour en discuter (mention, suppression, etc.).
