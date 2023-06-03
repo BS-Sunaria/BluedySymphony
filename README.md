@@ -1,5 +1,5 @@
 # Sunaria-BluedyNamic
-
+![Downloads](https://img.shields.io/badge/downloads-no%20releases-red)
 ## Préambule
 
 Ce pack de texture a été conçu pour être utilisé sur le serveur [Sunaria](https://sunaria.fr/) mais est aussi compatible
