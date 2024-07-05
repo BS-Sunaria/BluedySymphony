@@ -12,7 +12,7 @@ Ce pack de texture utilise comme base les textures du [Dynamic Duo v2](https://y
 Ce pack de texture a besoin du mod nommé [Optifine](https://www.optifine.net/downloads) pour fonctionner ou d'un
 launcher qui supporte ce mod comme le [Badlion Client](https://client.badlion.net/fr).
 
-Pour l'installer dans la version [actuelle](https://github.com/BluedyAishela/Sunaria-BluedyNamic/archive/refs/heads/main.zip) sinon, consultez les [releases](https://github.com/BluedyAishela/Sunaria-BluedyNamic/releases).
+Pour l'installer dans la version [actuelle](https://github.com/BS-Sunaria/BluedySymphony/archive/refs/heads/main.zip) sinon, consultez les [releases](https://github.com/BluedyAishela/Sunaria-BluedyNamic/releases).
 
 Une fois installé, vous devrez activer l'option nommée "Objets personnalisés" au chemin suivant une fois en jeu : 
 ```
